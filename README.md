@@ -22,10 +22,8 @@
 ##
 
 <div> 
-  <a href="https://pt.wikipedia.org/wiki/Microsoft_Office" target="_blank"> <img src="https://img.shields.io/badge/-Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" target="_blank"></a>
   <a href="https://azure.microsoft.com/pt-br/" target="_blank"> <img src="https://img.shields.io/badge/-Microsoft%20Azure-007FFF?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" target="_blank </a>
   <img alt="Static Badge" src="https://img.shields.io/badge/microsoft_azure-color?logo=Microsoft%20Azure">
   <a href="https://cloud.google.com/?hl=pt-BR" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-DB4437?style=for-the-badge&logo=GoogleCloud&logoColor=white" target="_blank"></a>
-  
-
+  <a href="https://pt.wikipedia.org/wiki/Microsoft_Office" target="_blank"> <img src="https://img.shields.io/badge/-Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" target="_blank"></a>
 </div>
