@@ -1,7 +1,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/barbxsa/" target="_blank">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbxsa&layout=compact&langs_count=7&theme=gruvbox" style="max-width:100%;"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbxsa&layout=compact&langs_count=7&theme=dark" style="max-width:100%;"/>
 </div>
 <div style="display: inline_block">
   <h3 color="white">Main Langs:</h3>
