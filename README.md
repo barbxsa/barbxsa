@@ -4,13 +4,13 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbxsa&layout=compact&langs_count=7&theme=gruvbox" style="max-width:100%;"/>
 </div>
 <div style="display: inline_block">
-  <h3>Main Langs:</h3>
+  <h3 color="white">Main Langs:</h3>
   <img align="center" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="50" />
   <img align="center" alt="Jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="50" />
   <img align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="50">
 </div>
 <div style="display: inline_block">
-  <h3>Main Tools:</h3>
+  <h3 color="white">Main Tools:</h3>
   <img align="center" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="50">
   <img align="center" alt="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="50">
   <img align="center" alt="Boostrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="50">
