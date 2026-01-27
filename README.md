@@ -1,15 +1,13 @@
 # Olá, eu sou o Gabriel Barbosa!
 
 <div>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbxsa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" /> -->
+  <img height="180em" src="https://github-readme-stats-gray-nine-92.vercel.app/api?username=barbxsa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbxsa&layout=compact&langs_count=7&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats-gray-nine-92.vercel.app/api/top-langs/?username=barbxsa&layout=compact&langs_count=7&theme=transparent" />
 </div>
 
 ---
-
 ### Skills & Tecnologias
-
 #### **Frontend & Design**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,8 +23,9 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 #### **Cloud & Tools**
@@ -39,6 +38,12 @@
 ---
 
 ### Conecte-se comigo
-<a href="https://www.linkedin.com/in/barbxsa/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/barbxsa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://barbxsa.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/portfólio-000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
